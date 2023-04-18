@@ -1,0 +1,17 @@
+{
+    "boston-ma": {
+      "name": "Boston, MA",
+      "img": "weather-clear.svg",
+      "weather": "Sunny",
+      "high": 70,
+      "low": 59
+    },
+    "chicago-il": {
+        "name": "Boston, MA",
+        "img": "weather-clear.svg",
+        "weather": "Sunny",
+        "high": 70,
+        "low": 59
+    }
+
+}

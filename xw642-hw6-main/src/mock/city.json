@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Chicago, IL",
+    "cityId": "chicago"
+  },
+  {
+    "name": "Boston, MA",
+    "cityId": "boston"
+  },
+  {
+    "name": "Washington, DC",
+    "cityId": "washington"
+  },
+  {
+    "name": "Los Angeles, CA",
+    "cityId": "la"
+  }
+]

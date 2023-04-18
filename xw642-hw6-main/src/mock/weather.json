@@ -1,0 +1,74 @@
+{
+  "chicago": {
+    "today": {
+      "weather": "Sunny",
+      "high": 76.8,
+      "low": 62,
+      "img": "../public/image/sunny.jpg"
+    },
+    "tomorrow": {
+      "weather": "good",
+      "high": 76.8,
+      "low": 63
+    },
+    "in2days": {
+      "weather": "good",
+      "high": 76.8,
+      "low": 64
+    }
+  },
+  "boston": {
+    "today": {
+      "weather": "Rainy",
+      "high": 75,
+      "low": 65,
+      "img": "../public/image/rainy.webp"
+    },
+    "tomorrow": {
+      "weather": "good",
+      "high": 76.8,
+      "low": 66
+    },
+    "in2days": {
+      "weather": "good",
+      "high": 76.8,
+      "low": 67
+    }
+  },
+  "la": {
+    "today": {
+      "weather": "Sunny",
+      "high": 80,
+      "low": 67,
+      "img": "../public/image/sunny.jpg"
+    },
+    "tomorrow": {
+      "weather": "good",
+      "high": 76.8,
+      "low": 66
+    },
+    "in2days": {
+      "weather": "good",
+      "high": 76.8,
+      "low": 65
+    }
+  },
+  "washington": {
+    "today": {
+      "weather": "Snowy",
+      "high": 70,
+      "low": 58,
+      "img": "../public/image/snowy.webp"
+    },
+    "tomorrow": {
+      "weather": "good",
+      "high": 76.8,
+      "low": 59
+    },
+    "in2days": {
+      "weather": "good",
+      "high": 76.8,
+      "low": 60
+    }
+  }
+}
